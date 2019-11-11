@@ -1,4 +1,4 @@
-# Gorban's H family of Lyapunove functions
+# Gorban's H family of Lyapunove functions: software and figures
 Software and figures for paper  "Universal Gorban’s Entropies: Geometric Case Study" in the Entropy journal
 This repository contains four folders for four considered models. Each model contains several submodels with different figure names.
 Description of file names is presented below:
